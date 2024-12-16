@@ -12,9 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
 
 ###
 
@@ -27,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Chandan H.K from heritage city <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning "Currently expanding my skill set by learning frontend development, with a focus on mastering HTML, CSS, and JavaScript to build dynamic and responsive web applications."<br>- ⚡ In my free time I remain unbothered </p>
+<p align="left">I'm Chandan H.K  <br><br>- 🔭 I’m working on project based on NODE.JS <br>- 📚 I'm currently improving "The skill set by learning frontend development, with a focus on mastering HTML, CSS, and JavaScript to build dynamic and responsive web applications."<br>- ⚡ In my free time I remain unbothered </p>
 
 ###
 
