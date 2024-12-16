@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Chandan H.K from heritage city <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning "Currently expanding my skill set by learning frontend development, with a focus on mastering HTML, CSS, and JavaScript to build dynamic and responsive web applications."<br>- ⚡ In my free time I remain unbothered </p>
 
 ###
 
